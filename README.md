@@ -2,6 +2,10 @@
 
 프론트엔드 성능 최적화를 학습하고 정리하는 저장소입니다.
 
+<p align="center">
+  <img alt="book-cover" src="https://github.com/user-attachments/assets/25c7218f-1c33-4806-a34d-f1f6f6438943" width="220" />
+</p>
+
 ## 학습 목차
 
 ### PART 01. 네트워크와 로딩 최적화
