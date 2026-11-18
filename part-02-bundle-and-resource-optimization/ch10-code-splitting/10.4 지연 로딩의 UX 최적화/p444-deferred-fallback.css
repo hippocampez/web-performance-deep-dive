@@ -1,0 +1,13 @@
+.fallback-container {
+  animation: fadeIn 300ms ease-in; /* 0.3초 동안 서서히 나타나게 함 */
+  min-height: 200px; /* 레이아웃 shift 방지(최소 높이를 확보해 화면이 갑자기 움직이는 현상을 줄이려는 설정) */
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0; /* 완전히 투명 */
+  }
+  to {
+    opacity: 1; /* 완전히 보임 */
+  }
+}
